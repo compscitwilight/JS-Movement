@@ -8,5 +8,4 @@ app.whenReady().then(() => {
     })
 
     win.loadFile("./index.html")
-    win.setProgressBar(80)
 })
